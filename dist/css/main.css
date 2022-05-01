@@ -251,10 +251,10 @@ body {
   height: 50rem;
   transition: all 0.8s;
 }
-.card--front {
+.card__side--front {
   background-color: orangered;
 }
-.card--back {
+.card__side--back {
   background-color: green;
   transform: rotateY(180deg);
 }
